@@ -9,11 +9,11 @@
 #    print("{} es igual a {}".format(A, B))
 
 #Ejercicio 2
-#a = int(input("Nota 1:"))
-#b = int(input("Nota 2:"))
-#c = int(input("Nota 3:"))
-#d = int(input("Nota 4:"))
-#e = int(input("Nota 5:"))
+#a = float(input("Nota 1:"))
+#b = float(input("Nota 2:"))
+#c = float(input("Nota 3:"))
+#d = float(input("Nota 4:"))
+#e = float(input("Nota 5:"))
 #if a > 5:
 #    print("Nota 1 invalida, ingrese una nota valida:")
 #elif a < 0:
