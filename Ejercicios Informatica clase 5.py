@@ -1,0 +1,36 @@
+#a = int(input (" Escriba un numero:"))
+#print (" Este es el cuadrado: {}".format(a**2))
+#print (" Este es el cubo: {}".format(a**3))
+
+#b = int(input (" Salario 1: "))
+#print("Este es el aumento del Salario 1: {}".format(b*0.1+b))
+#c = int(input (" Salario 2: ")) 
+#print("Este es el aumento del Salario 2: {}".format(c*0.12+c))
+#d = int(input (" Salario 3: ")) 
+#print("Este es el aumento del Salario 3: {}".format(d*0.15+d))
+
+#a = int(input ("Nota 1: "))
+#b = int(input ("Nota 2: "))
+#c = int(input ("Nota 3: "))
+#d = int(input ("Nota 4: "))
+#e = int(input ("Nota 5: "))
+#print ("Nota final: {}".format((a*0.3) + (b*0.15) + (c*0.15) + (d*0.2) + (e*0.2)))
+
+#a = int(input( "Escriba el radio de la circunferencia: "))
+#print ("Este es el área de la circunferencia: {}".format(((a**2)*3.1416)))
+#print ("Este es el perimetro de la circunferencia: {}".format(a*2*3.1416))
+
+#a = int(input ("Número de pasos:"))
+#Centimetros = (a*45)
+#Metros = (Centimetros/100)
+#Kilometros = (Metros/1000)
+#print ("Kilometros caminados: {} km".format(Kilometros))
+#print("Metros caminados: {} m".format(Metros))
+#print("Centimetros caminados: {} cm".format(Centimetros))
+
+#a = int(input("Valor en grados: "))
+#print("Valor en radianes: {}".format(a*(3.1416/180)))
+
+#a = int(input ("Grados celcius:"))
+#print("Valor de grados celcius a Kelvin: {} K".format(a+273.15))
+#print("Valor de celcius a Fahrenheit: {}".format((a*(9/5))+32))
